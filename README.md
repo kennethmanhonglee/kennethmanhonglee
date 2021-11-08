@@ -7,7 +7,7 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kenneth-lee-75b870158/) 
 - 😄 Pronouns: He/Him/His
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethmanhonglee)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethmanhonglee&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
