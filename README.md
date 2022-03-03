@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a calorie tracker app for dogs. 
 - 🌱 I’m currently learning Python.
-- 🤔 I’m looking for help with finding my first software engineering position!
+<!-- - 🤔 I’m looking for help with finding my first software engineering position! -->
 - 💬 Ask me about badminton 🏸 or video games 🕹!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kenneth-lee-75b870158/) 
 - 😄 Pronouns: He/Him/His
