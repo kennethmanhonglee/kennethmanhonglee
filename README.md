@@ -1,7 +1,7 @@
 ### Hello! My name is Kenneth, and I am an aspiring Software Engineer. 
 
-- 🔭 I’m currently working on a calorie tracker app for dogs. 
-- 🌱 I’m currently learning Ruby, Ruby on Rails, and Active Record.
+- 🔭 I’m currently working on making silly little games in Python for fun.
+- 🌱 I’m currently learning Pygame.
 - 💬 Ask me about badminton 🏸 or video games 🕹!
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/kenneth-lee-75b870158/) 
 - 😄 Pronouns: He/Him/His
